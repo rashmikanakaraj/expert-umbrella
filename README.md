@@ -1,2 +1,4 @@
 # expert-umbrella
-First repository
+
+Hello everyone!!
+      This is really exciting to a part of github!! I'm loving it!!
